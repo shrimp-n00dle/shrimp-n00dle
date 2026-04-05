@@ -38,7 +38,7 @@ I build games and design code.
 
 If you're interested in any of my personal projects, feel free to check out "You Are More Than Enough". Available on my [itch.io](https://silverlocketgames.itch.io/you-are-more-than-enough) page
 
-Reach me out on my [LinkedIn](https://ph.linkedin.com/in/jan-elizabeth-vingno-680b17248) and Email
+Reach me out on my [LinkedIn](https://ph.linkedin.com/in/jan-elizabeth-vingno-680b17248) or my email at : silverlocketgames@gmail.com
 
 - 🍥 I’m currently working on a new Puzzle Thriller game on Godot!
 - 🎹 I’m looking for help with Music and Sound Design, reach out if you're interested with working with me
