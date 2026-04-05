@@ -40,6 +40,6 @@ If you're interested in any of my personal projects, feel free to check out "You
 
 Reach me out on my [LinkedIn](https://ph.linkedin.com/in/jan-elizabeth-vingno-680b17248) and Email
 
-🍥 I’m currently working on a new Puzzle Thriller game on Godot!
-🎹 I’m looking for help with Music and Sound Design, reach out if you're interested with working with me
-✈️ Fun fact: I love to travel
+- 🍥 I’m currently working on a new Puzzle Thriller game on Godot!
+- 🎹 I’m looking for help with Music and Sound Design, reach out if you're interested with working with me
+- ✈️ Fun fact: I love to travel
