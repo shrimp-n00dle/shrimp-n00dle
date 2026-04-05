@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello! 🚀
 
 <!--
 **shrimp-n00dle/shrimp-n00dle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,23 +18,13 @@ I'm [Jan Elizabeth](https://sites.google.com/dlsu.edu.ph/janelizabeth/who-i-am).
 
 A Game Developer based in the Philippines.
 
-I build games and design code.
+I design code, build games, and create narratives inspired by my personal experiences, emotions or from media.
 
-## Main Tech Stacks
-
-### Game Engines:
-- Unity
-- Godot
-- Unreal Engine
-
-### Rendering API's:
+### Main Tech Stacks
+- Unity (C#)
+- Godot (GDScript)
+- Unreal Engine (C++)
 - OpenGL
-
-### Languages:
-- C++
-- C#
-- C
-- GDScript
 
 If you're interested in any of my personal projects, feel free to check out "You Are More Than Enough". Available on my [itch.io](https://silverlocketgames.itch.io/you-are-more-than-enough) page
 
